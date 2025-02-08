@@ -65,6 +65,6 @@ Abra os arquivos `.ipynb` e execute as células passo a passo.
 - Criar uma interface gráfica para facilitar o uso.
 
 ---
-Caso tenha alguma sugestão ou precise de ajustes, me avise! 🚀😊
+
 
 
